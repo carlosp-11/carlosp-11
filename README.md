@@ -4,7 +4,7 @@
 <p align="left">
 
 
-As a full stack developer, I am proficient in crafting dynamic web applications that breathe life into creative visions giving them purpose and direction. my ultimate goal is to create remarkable web applications that leave a positive impact on users and drive business growth.
+As a full stack developer, I am proficient in crafting dynamic web applications that breathe life into creative visions giving them purpose and direction. My ultimate goal is to create remarkable web applications that leave a positive impact on users and drive business growth.
 
 I hold a holistic approach to problem-solving, I analyze challenges from different angles, combining logic and creativity to develop innovative solutions.
 
